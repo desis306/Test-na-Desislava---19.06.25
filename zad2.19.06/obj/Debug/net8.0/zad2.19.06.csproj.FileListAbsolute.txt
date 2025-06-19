@@ -1,0 +1,14 @@
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\bin\Debug\net8.0\zad2.19.06.exe
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\bin\Debug\net8.0\zad2.19.06.deps.json
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\bin\Debug\net8.0\zad2.19.06.runtimeconfig.json
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\bin\Debug\net8.0\zad2.19.06.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\bin\Debug\net8.0\zad2.19.06.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.AssemblyInfoInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.AssemblyInfo.cs
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.csproj.CoreCompileInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\refint\zad2.19.06.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\zad2.19.06.genruntimeconfig.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\zad2.19.06\obj\Debug\net8.0\ref\zad2.19.06.dll
